@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "4.1"
+install:
+  - npm install
+before_script:
+  - echo "Mag start nako"
+script:
+  - npm test
+deploy:
+  - echo "mag curl padung sa imung server dev"

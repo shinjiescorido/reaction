@@ -1,0 +1,22 @@
+{
+  "name": "reaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Nag test nako\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinjiescorido/reaction.git"
+  },
+  "author": "Gideon Rosales <shinji.escorido@gmail.com> (https://github.com/shinjiescorido)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinjiescorido/reaction/issues"
+  },
+  "homepage": "https://github.com/shinjiescorido/reaction",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}
